@@ -4,7 +4,7 @@ WEB420-330H RESTFul APIs (2211-DD)
 
 # contributors
 
-> Professor Massoud - Bellevue University
+> Professor Krasso - Bellevue University
 >
 > Anil Rayamajhi - Bellevue University
 
